@@ -1,7 +1,7 @@
 import "./Hero.css";
 
 function Hero() {
-	return;
+	return <div className="hero"></div>;
 }
 
 export default Hero;
