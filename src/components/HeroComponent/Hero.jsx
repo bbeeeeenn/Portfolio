@@ -1,7 +1,5 @@
 import "./Hero.css";
 
-function Hero() {
-	return <div className="hero"></div>;
-}
+function Hero() {}
 
 export default Hero;
